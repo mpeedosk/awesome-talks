@@ -125,7 +125,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [Steve Jobs' 2005 Stanford Commencement Address](https://www.youtube.com/watch?v=UF8uR6Z6KLc) by **Steve Jobs** [15:04]
 
 #####Custom
-
+* ~~[The Humane Representation of Thought](https://vimeo.com/115154289) by **Bret Victor** [56:21]~~
 ## License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
