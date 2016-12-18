@@ -127,6 +127,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 #####Custom
 * ~~[The Humane Representation of Thought](https://vimeo.com/115154289) by **Bret Victor** [56:21]~~
 * ~~[Declarative Thinking, Declarative Practice](https://www.youtube.com/watch?v=NSzsYWckGd4) by **Kevlin Henney** [1:00:53]~~
+* ~~[Java Language and Platform Futures: A Sneak Peek](https://www.youtube.com/watch?v=oGll155-vuQ) by **Brian Goetz** [1:00:24]~~
 ## License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
