@@ -38,7 +38,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [Adventures in Functional Programming](https://vimeo.com/45140590) by **Jim Weirich** [50:34]
 * [Deconstructing Functional Programming](http://www.infoq.com/presentations/functional-pros-cons) by **Gilad Bracha** [48:33]
 * [Living in a Post-Functional World](http://www.infoq.com/presentations/post-functional-scala-clojure-haskell) by **Daniel Spiewak** [45:46]
-* [Extreme Cleverness: Functional Data Structures in Scala](https://www.youtube.com/watch?v=pNhBQJN44YQ) by **Daniel Spiewak** [39:24]
+* ~~[Extreme Cleverness: Functional Data Structures in Scala](https://www.youtube.com/watch?v=pNhBQJN44YQ) by **Daniel Spiewak** [39:24]~~
 * [Tangible Functional Programming](https://www.youtube.com/watch?v=faJ8N0giqzw) by **Conal Elliott** [56:24]
 * [Faith, Evolution, and Programming Languages](https://www.youtube.com/watch?v=8frGknO8rIg) by **Phillip Wadler** [1:06:53]
 * [Don't fear the Monad](https://www.youtube.com/watch?v=ZhuHCtR3xq8) by **Dr. Brian Beckman** [1:07:10]
